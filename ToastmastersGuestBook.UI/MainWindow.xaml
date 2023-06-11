@@ -1,0 +1,88 @@
+﻿<Window x:Class="ToastmastersGuestBook.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:view="clr-namespace:ToastmastersGuestBook.UI.View"
+        xmlns:viewModel="clr-namespace:ToastmastersGuestBook.UI.ViewModel"
+        Title="Toastmasters Guest Book"
+        WindowStartupLocation="CenterScreen"
+        Height="600" 
+        Width="1000">
+<<<<<<< HEAD
+        <Window.Resources>
+=======
+    <Window.Resources>
+>>>>>>> master
+        <DataTemplate DataType="{ x:Type viewModel:GuestDetailViewModel }">
+            <view:GuestDetailViewModel />
+        </DataTemplate>
+    </Window.Resources>
+<<<<<<< HEAD
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300" />
+                <ColumnDefinition Width="500" />
+            </Grid.ColumnDefinitions>
+
+        <Menu Grid.ColumnSpan="3" FontSize="14">
+            <MenuItem Header="Create">
+                <MenuItem Header="New Guest" 
+                          Command="{ Binding CreateNewDetailCommand }"
+                          CommandParameter="{ x:Type viewModel:GuestDetailViewModel }"/>
+            </MenuItem>
+        </Menu>
+        <view:NavigationView Grid.Row="1" 
+                             Grid.RowSpan="2"
+                             DataContext="{ Binding NavigationViewModel }" />
+        <ContentControl Width="350"
+                        Grid.Row="1" 
+                        Grid.Column="1" 
+                        Content="{ Binding DetailViewModel }" 
+                        Margin="5,0,-5,0" />
+=======
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Menu FontSize="14" 
+              Grid.Row="0" 
+              Grid.ColumnSpan="9" 
+              Height="50" 
+              Margin="0,0,-0.4,21.2" 
+              Background="{ StaticResource Navigation-background}">
+            <MenuItem Header="Create" Height="25" Width="76" Margin="20,23.4,0,0">
+                <MenuItem Header="New Guest" Command="{Binding CreateNewGuestCommand}" />
+            </MenuItem>
+        </Menu>
+
+        <view:NavigationView Grid.Column="0" Grid.RowSpan="8" DataContext="{ Binding NavigationViewModel }" Margin="0,50,110.2,0.4" Grid.ColumnSpan="3" />
+
+        <ContentControl Grid.Row="1" Grid.RowSpan="8" Grid.Column="2" Grid.ColumnSpan="7" Content="{ Binding GuestDetailViewModel }" />
+>>>>>>> master
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+C:\Users\joseeladiocabrerajr\source\repos\ToastmastersGuestBook\ToastmastersGuestBook.Model\bin\Debug\ToastmastersGuestBook.Model.dll
+C:\Users\joseeladiocabrerajr\source\repos\ToastmastersGuestBook\ToastmastersGuestBook.Model\bin\Debug\ToastmastersGuestBook.Model.pdb
+C:\Users\joseeladiocabrerajr\source\repos\ToastmastersGuestBook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.csproj.CoreCompileInputs.cache
+C:\Users\joseeladiocabrerajr\source\repos\ToastmastersGuestBook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.dll
+C:\Users\joseeladiocabrerajr\source\repos\ToastmastersGuestBook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.pdb
+C:\Users\joseeladiocabrerajr\Desktop\git\toastmastersguestbook\ToastmastersGuestBook.Model\bin\Debug\ToastmastersGuestBook.Model.dll
+C:\Users\joseeladiocabrerajr\Desktop\git\toastmastersguestbook\ToastmastersGuestBook.Model\bin\Debug\ToastmastersGuestBook.Model.pdb
+C:\Users\joseeladiocabrerajr\Desktop\git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.csproj.CoreCompileInputs.cache
+C:\Users\joseeladiocabrerajr\Desktop\git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.dll
+C:\Users\joseeladiocabrerajr\Desktop\git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.pdb
+<<<<<<< HEAD
+C:\Users\joseeladiocabrerajr\Desktop\git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.csprojAssemblyReference.cache
+=======
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.Model\bin\Debug\ToastmastersGuestBook.Model.dll
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.Model\bin\Debug\ToastmastersGuestBook.Model.pdb
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.csprojAssemblyReference.cache
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.csproj.CoreCompileInputs.cache
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.dll
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.Model\obj\Debug\ToastmastersGuestBook.Model.pdb
+>>>>>>> master

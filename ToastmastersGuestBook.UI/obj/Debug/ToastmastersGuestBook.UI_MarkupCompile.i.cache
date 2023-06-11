@@ -1,0 +1,26 @@
+﻿ToastmastersGuestBook.UI
+
+
+winexe
+C#
+.cs
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.UI\obj\Debug\
+ToastmastersGuestBook.UI
+none
+false
+DEBUG;TRACE
+C:\Users\jcdev\Desktop\Git\toastmastersguestbook\ToastmastersGuestBook.UI\App.xaml
+4-242030115
+
+<<<<<<< HEAD
+411796100136
+26-396654822
+MainWindow.xaml;View\GuestDetailView.xaml;View\NavigationView.xaml;
+=======
+33-347466466
+20-1473788153
+Assets\LayoutDesignResourceDictionary.xaml;MainWindow.xaml;View\GuestDetailView.xaml;View\NavigationView.xaml;
+>>>>>>> master
+
+False
+
